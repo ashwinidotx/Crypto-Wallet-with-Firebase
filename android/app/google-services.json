@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "223132730024",
+    "firebase_url": "https://crypto-wallet-27.firebaseio.com",
+    "project_id": "crypto-wallet-27",
+    "storage_bucket": "crypto-wallet-27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223132730024:android:9bbaeab08644a35c2af89d",
+        "android_client_info": {
+          "package_name": "com.example.crypto_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223132730024-6qmgc2ki8hdhagjc827d7m7agcjii2fo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOzTXbQOcVQ2vCk1PM_7ha0Fi5W3dYi8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223132730024-6qmgc2ki8hdhagjc827d7m7agcjii2fo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
